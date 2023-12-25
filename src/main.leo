@@ -28,3 +28,4 @@ program lottery.aleo {
 
     }
 }
+ 
